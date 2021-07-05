@@ -24,12 +24,20 @@ h1 span{
 .half-width img{
     width: 100%;
 }
-.anchor-button{
+#hireme-button{
     text-decoration: none;
-    background: linear-gradient(#336666 #64dddd);
+    background: linear-gradient( #64dddd, #336666);
     padding: 10px 40px;
     border-radius: 5px;
-    color: white;
+    color: black;
+    font-weight: 700;
+}
+#resume-button{
+    text-decoration: none;
+    background-image: linear-gradient(yellow, gold);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: black;
     font-weight: 700;
 }
 .html-css{
