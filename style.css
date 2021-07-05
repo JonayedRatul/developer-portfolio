@@ -26,7 +26,7 @@ h1 span{
 }
 .anchor-button{
     text-decoration: none;
-    background: linear-gradient(45deg, lightsalmon, tomato);
+    background: linear-gradient(#336666 #64dddd);
     padding: 10px 40px;
     border-radius: 5px;
     color: white;
