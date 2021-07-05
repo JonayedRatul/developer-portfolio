@@ -33,7 +33,7 @@ h1 span{
     font-weight: 700;
 }
 .html-css{
-    color: #68ff68;
+    color: #0edbff;
 }
 .dream-area{
     background-image: url(img/dream-bg.png);
@@ -50,10 +50,10 @@ h1 span{
 }
 .experience-area div{
     box-shadow: 5px 7px 40px gray;
-    height: 70%;
+    height: 80%;
 }
 h2{
-    font-size: 50px;
+    font-size: 30px;
 }
 #full-stack{
     border-left: 7px solid;
