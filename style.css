@@ -44,20 +44,20 @@ h1 span{
 .html-css{
     color: #0edbff;
 }
-.dream-area{
+#ambition{
     background-image: url(img/dream-bg.png);
     background-position: right;
     background-repeat: no-repeat;
 }
-.experience-area h3{
+#experience-area h3{
     color: goldenrod;
 }
-.experience-area{
+#experience-area{
     background-image: url(img/exp-bg.png);
     background-position: left;
     background-repeat: no-repeat;
 }
-.experience-area div{
+#experience-area div{
     box-shadow: 5px 7px 40px gray;
     height: 80%;
 }
